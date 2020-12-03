@@ -1,4 +1,6 @@
 # next-starter-mediacurrent
+![Mediacurrent Logo](https://www.drupal.org/files/styles/grid-3-2x/public/mc-blue-mediacurrent.png?itok=YDAOeM5m)
+
 A Next.js starter for creating an app with Mediacurrent standards and best practices.
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
